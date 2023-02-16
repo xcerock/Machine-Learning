@@ -1,0 +1,9 @@
+stages:
+  dataset:
+    cmd: ./src/00_dataset.sh
+    outs:
+      - data/HappinessAlcoholConsumption.csv
+  generate:
+    cmd: python ./src/01_generate.py
+    outs:
+      - data/figure.jpg
