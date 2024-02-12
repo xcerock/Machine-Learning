@@ -11,4 +11,11 @@ Todo el conocimiento acumulado por la humanidad hasta 1950 se duplicó en los si
 
 * Programar hoy es una habilidad requerida en la mayoría de los dominios.
 
+## Investigar sobre investigación, innovación y desarrollo
+
+* En qué se diferencia
+* Cuál es el ente rector
+* Cómo se promociona
+* Quien me la puede financiar
+* 
 
