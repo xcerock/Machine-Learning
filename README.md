@@ -8,3 +8,6 @@ Que tenga una visión holística del proyecto formativo, nació para lograr un f
 
 Todo el conocimiento acumulado por la humanidad hasta 1950 se duplicó en los siguientes 50 años y se espera que al 2025 se duplique el conocimiento humano, por lo tanto nos empezamos a especializar en el conocimiento, por lo mismo hay tantos saberes que debemos buscar especialización.
 
+
+* Programar hoy es una habilidad requerida en la mayoría de los dominios.
+
